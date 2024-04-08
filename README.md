@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+- 🌿 I'm currently working on my master's in plant physiology! 
+- 💻 I'm currently learning phyton.
+- ⚡ Fun fact: While I was studying, I wanted to be a bioinformatician in protein structure and protein stuff 
+
 
 <!--
 **bilgeaa/bilgeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
