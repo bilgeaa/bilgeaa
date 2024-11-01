@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌿 I'm currently working on my master's in plant physiology! 
-- 💻 I'm currently trying to learn phyton and R
+- 💻 I'm currently trying to learn python and R
 - ⚡ Fun fact: While studying, I wanted to be a bioinformatician in protein structure and conformation. I was also interested in lncRNA in human diseases. 
 - 📫 How to reach me: It's simple to send a mail 
 
