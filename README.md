@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 - 🌿 I'm currently working on my master's in plant physiology! 
-- 💻 I'm currently learning phyton.
-- ⚡ Fun fact: While I was studying, I wanted to be a bioinformatician in protein structure and protein stuff 
-
+- 💻 I'm currently trying to learn phyton and R 
+⚡Fun fact: While studying, I wanted to be a bioinformatician in protein structure and conformation. I was also interested in lncRNA in human diseases. 
+- 📫 How to reach me: It's simple to send a mail 
 
 <!--
 **bilgeaa/bilgeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
